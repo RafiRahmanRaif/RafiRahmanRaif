@@ -8,7 +8,7 @@
     "execa": "^7.0.0",
     "get-port": "^6.1.2",
     "got": "^12.5.3",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "lodash-es": "^4.17.21",
     "miniflare": "^2.12.1",
     "prettier": "^2.8.4",
