@@ -4606,10 +4606,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"graphql@npm:^16.6.0":
-  version: 16.6.0
-  resolution: "graphql@npm:16.6.0"
-  checksum: 686582916b9ca247f3562f086c34a6363155475da909e1f891f9a76a3b5273ed6c7034cd5a82e768670ac5a74d539a6f1be282253a92b49be3a489fc82e83a5b
+"graphql@npm:^16.8.1":
+  version: 16.8.1
+  resolution: "graphql@npm:16.8.1"
+  checksum: e3a95625d233c1d13c6f1df659f66955f582cb95dddb8407558090376088abcc414f39ed387a549541fca8cee681f3a5976253b6f53a5d47930dd129a5030143
   languageName: node
   linkType: hard
 
@@ -6935,7 +6935,7 @@ __metadata:
     eslint-plugin-jsx-a11y: "npm:^6.7.1"
     eslint-plugin-react: "npm:^7.32.2"
     eslint-plugin-react-hooks: "npm:^4.6.0"
-    graphql: "npm:^16.6.0"
+    graphql: "npm:^16.8.1"
     husky: "npm:^8.0.3"
     prettier: "npm:^2.8.4"
     react: "npm:^18.2.0"
@@ -6995,7 +6995,7 @@ __metadata:
     execa: "npm:^7.0.0"
     get-port: "npm:^6.1.2"
     got: "npm:^12.5.3"
-    graphql: "npm:^16.6.0"
+    graphql: "npm:^16.8.1"
     lodash-es: "npm:^4.17.21"
     miniflare: "npm:^2.12.1"
     prettier: "npm:^2.8.4"
